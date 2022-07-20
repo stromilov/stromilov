@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stromilov
 - 👀 I’m interested in Machine Learning, AI, robots, education, math
-- 🌱 I’m currently learning Mathematic statistic
+- 🌱 I’m currently learning System programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
